@@ -26,8 +26,8 @@ A conversational AI agent built with the [Anthropic Python SDK](https://github.c
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/arunsak/ac-ai-agent.git
-cd ac-ai-agent
+git clone https://github.com/arunsakcharoon/my-first-agent.git
+cd my-first-agent
 ```
 
 ### 2. Create and activate a virtual environment
